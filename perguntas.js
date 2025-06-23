@@ -15,3 +15,21 @@ criaCartao(
     'Qual  o gráfico da função quadrática?',
     'Parábola'
 )
+
+criaCartao(
+    'Geografia',
+    'Onde se localiza Machu Picchu?',
+    'Itália'
+)
+
+criaCartao(
+    'Biologia',
+    'Quantos ossos temos no nosso corpo?',
+    '206'
+)
+
+criaCartao(
+    'Arte',
+    'Quem pintou Mona Lisa?',
+    'Leonardo da Vinci'
+)
